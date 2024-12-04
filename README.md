@@ -19,6 +19,9 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 - **Customers**  
 - **Date**
 
+## Star schema
+<img width="378" alt="{A1CDEECB-183A-4F65-9F77-946898FDF60F}" src="https://github.com/user-attachments/assets/e9b587fb-000b-447e-aede-209a8ca230d7">
+
 ---
 
 ## ✨ Features  
