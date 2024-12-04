@@ -56,8 +56,8 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 ## 📞 Contact  
 Feel free to reach out for feedback, collaboration, or queries!  
 
-- **LinkedIn:** (https://www.linkedin.com/in/thats-siddhi/)
-- **Instagram:**[ [Your Instagram Handle](#) ](https://www.instagram.com/thats_siddhi) 
+- **LinkedIn:** https://www.linkedin.com/in/thats-siddhi/
+- **Instagram:** https://www.instagram.com/thats_siddhi
 - **Email:** siddhi.atwork@gmail.com
 
 ---
