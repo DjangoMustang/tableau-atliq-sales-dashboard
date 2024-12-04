@@ -23,12 +23,7 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 
 ## ✨ Features  
 - **KPIs:**  
-  - **Sales YTD** and **Sales Quantity YTD**, each with accompanying sparklines for trend analysis.  
-- **Charts:**  
-  - **Sales by Market**  
-  - **Sales Quantity by Market**  
-  - **Top 5 Products**  
-  - **Top 5 Customers**  
+  - **Sales YTD** and **Sales Quantity YTD**, each with accompanying sparklines for trend analysis.    
 - **4-Level Sales by Year Drilldown:** Navigate from **Year** → **Quarter** → **Month** → **Day** to dive deep into sales performance.  
 - **Light and Dark Mode Toggle:** Switch between modes for better visual comfort and presentation.  
 - Custom design: Created independently without following tutorials, ensuring a unique and tailored solution.
@@ -36,7 +31,9 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 ---
 
 ## 📷 Dashboard Preview  
-*(Screenshot of the dashboard will be added here)*
+<img width="902" alt="{00A38E6D-2FAF-4DB7-BF28-9EA778659318}" src="https://github.com/user-attachments/assets/e83d45f8-695c-4ef4-a72b-8bf67957496d">
+
+<img width="866" alt="{B212927E-E567-4943-9027-90CAE984CB00}" src="https://github.com/user-attachments/assets/11c22189-2fb5-4cfd-a265-0599dfe9503f">
 
 ---
 
