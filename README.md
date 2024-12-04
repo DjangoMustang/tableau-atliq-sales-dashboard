@@ -1,4 +1,4 @@
-# Atliq Sales Dashboard
+# Atliq Sales Dashboard on Tableau
 
 ## 📊 Overview  
 The **Atliq Sales Dashboard** is a dynamic Tableau project designed to help the sales team track and analyze sales data efficiently. It provides key insights into sales trends, market performance, and top contributors, enabling data-driven decision-making.
@@ -9,6 +9,7 @@ To empower the sales team with a comprehensive tool for:
 - Analyzing sales performance across different markets and time periods.  
 - Identifying top-performing products and customers.
 
+## Dashboard link: https://public.tableau.com/views/AtliqSalesDashboard_16975417673750/DarkYTDDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🗂️ Data Details  
