@@ -56,9 +56,9 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 ## 📞 Contact  
 Feel free to reach out for feedback, collaboration, or queries!  
 
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Instagram:** [Your Instagram Handle](#)  
-- **Email:** [Your Email Address](mailto:your-email@example.com)  
+- **LinkedIn:** (https://www.linkedin.com/in/thats-siddhi/)
+- **Instagram:**[ [Your Instagram Handle](#) ](https://www.instagram.com/thats_siddhi) 
+- **Email:** siddhi.atwork@gmail.com
 
 ---
 
