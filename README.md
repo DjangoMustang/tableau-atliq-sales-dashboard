@@ -28,7 +28,15 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 ## ✨ Features  
 - **KPIs:**  
   - **Sales YTD** and **Sales Quantity YTD**, each with accompanying sparklines for trend analysis.    
-- **4-Level Sales by Year Drilldown:** Navigate from **Year** → **Quarter** → **Month** → **Day** to dive deep into sales performance.  
+- **4-Level Sales by Year Drilldown:** Navigate from **Year** → **Quarter** → **Month** → **Day** to dive deep into sales performance.
+  <img width="426" alt="{409AEC96-737C-484C-BF26-05CB24FD866B}" src="https://github.com/user-attachments/assets/36029643-1f5d-4265-aa90-090e2c388bdf">
+  <img width="422" alt="{83D26903-07C0-4882-9762-9B9326745B83}" src="https://github.com/user-attachments/assets/49cac662-0d19-43e4-bfc7-df3d1282de9d">
+  <img width="422" alt="{20A57632-6090-432D-AAED-E095D8F8BEC7}" src="https://github.com/user-attachments/assets/40e26921-b0dc-488f-9b41-a9ea6d9604f8">
+  <img width="420" alt="{5878D3D3-0415-48B1-96A1-A5B5FEC8E75F}" src="https://github.com/user-attachments/assets/04286ff6-cbf6-488d-a7df-a2a31d5154d3">
+
+
+
+
 - **Light and Dark Mode Toggle:** Switch between modes for better visual comfort and presentation.  
 - Custom design: Created independently without following tutorials, ensuring a unique and tailored solution.
 
@@ -50,7 +58,8 @@ The dashboard was built using data provided by **Codebasics**, consisting of the
 
 ## 🛠️ Tools Used  
 - **Tableau** for data visualization.  
-- **Codebasics** dataset for sales data.  
+- **Codebasics** dataset for sales data.
+- **Figma** dashboard design in black and white
 
 ---
 
